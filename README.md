@@ -74,6 +74,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Sayantanx-code&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantanx-code&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sayantanx-code&theme=dracula)](https://github.com/Sayantanx-code/github-readme-activity-graph)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sayantanx-code&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
